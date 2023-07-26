@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[InfinityX PCB_1.GTO]
+   Generated File[InfinityX PCB_1.GTP]
+   Generated File[InfinityX PCB_1.GTS]
+   Generated File[InfinityX PCB_1.GTL]
+   Generated File[InfinityX PCB_1.G1]
+   Generated File[InfinityX PCB_1.G2]
+   Generated File[InfinityX PCB_1.G3]
+   Generated File[InfinityX PCB_1.G4]
+   Generated File[InfinityX PCB_1.GBL]
+   Generated File[InfinityX PCB_1.GBS]
+   Generated File[InfinityX PCB_1.GBP]
+   Generated File[InfinityX PCB_1.GBO]
+   Generated File[InfinityX PCB_1.GM]
+   Generated File[InfinityX PCB_1.EXTREP]
+   Generated File[InfinityX PCB_1.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 2:51:11 AM On 7/26/2023
